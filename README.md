@@ -1,71 +1,95 @@
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./dark-original.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./light-original.svg" />
+    <img alt="Zahid Hussain banner" src="./light-original.svg" />
+  </picture>
+</p>
+
 <h1 align="center">Hi 👋, I'm Zahid Hussain</h1>
 
 <h3 align="center">
-Full Stack Engineer | MERN Stack Developer | React.js • Next.js • Node.js • FastAPI
+  Full Stack Engineer | MERN Stack Developer | React.js • Next.js • Node.js • FastAPI
 </h3>
 
 <p align="center">
   <a href="https://github.com/zahid-hussain-dev">
-    <img src="https://komarev.com/ghpvc/?username=zahid-hussain-dev&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+    <img src="https://komarev.com/ghpvc/?username=zahid-hussain-dev&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=800&lines=Full+Stack+Engineer;React.js+%7C+Next.js+%7C+Node.js;FastAPI+%7C+TypeScript+%7C+Python;Building+FinTech+%2C+SaaS+and+AI+Products" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=850&lines=Full+Stack+Engineer;React.js+%7C+Next.js+%7C+Node.js;FastAPI+%7C+TypeScript+%7C+Python;Building+FinTech%2C+SaaS+and+AI+Products" alt="Typing animation" />
 </p>
 
 ---
 
-## 🚀 About Me
+## Quick Info
 
-💻 Full Stack Developer with **4+ years of experience** building scalable web applications.
-
-🚀 Currently working as a **MERN Stack Developer at Techbucks**
-
-🌱 Passionate about:
-- Building SaaS Platforms
-- FinTech Applications
-- AI Products
-- Modern Web Technologies
-- Clean Architecture
-
-⚡ I enjoy turning ideas into production-ready products.
-
-📍 Lahore, Pakistan
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">📍<br /><strong>Lahore, Pakistan</strong></td>
+      <td align="center">🎓<br /><strong>BS(CS) from PUCIT</strong></td>
+      <td align="center">💻<br /><strong>Full Stack Developer</strong></td>
+      <td align="center">📧<br /><strong>zahidhussain0423@gmail.com</strong></td>
+    </tr>
+  </table>
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+## About Me
+
+- Full-Stack Engineer with hands-on experience building scalable web applications.
+- Based in Lahore, Pakistan.
+- Studied at PUCIT.
+- Focused on SaaS platforms, FinTech products, AI products, and clean architecture.
+- I enjoy turning ideas into production-ready software.
+
+---
+
+## 🏆 Achievements
+
+- 🏅 4+ Years of Professional Experience
+- 🏅 Built Production-Level FinTech Platforms
+- 🏅 Developed AI-Powered Web Applications
+- 🏅 Led Teams and Delivered Enterprise Solutions
+- 🏅 Built Multiple SaaS Products
+
+---
+
+## Tech Stack
 
 ### Frontend
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,redux" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,redux" alt="Frontend stack" />
 </p>
 
 ### Backend
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,django" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,django" alt="Backend stack" />
 </p>
 
 ### Database
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase" alt="Database stack" />
 </p>
 
 ### Tools & Cloud
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,aws,postman,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,aws,postman,vscode" alt="Tools and cloud" />
 </p>
 
 ---
 
-## 💼 Experience
+## Experience
 
-### 🚀 MERN Stack Developer | Techbucks
+### MERN Stack Developer | Techbucks
 **Jun 2023 - Present**
 
 - Leading development of modern web applications.
@@ -73,14 +97,14 @@ Full Stack Engineer | MERN Stack Developer | React.js • Next.js • Node.js �
 - Integrating Python FastAPI services.
 - Managing production deployments.
 
-### 💻 Web Developer | Codesuite
+### Web Developer | Codesuite
 **Jun 2022 - May 2023**
 
 - Developed React.js and Next.js applications.
-- API integrations and frontend architecture.
+- Built API integrations and frontend architecture.
 - Worked closely with backend teams.
 
-### ⚡ Software Developer | Weltfern
+### Software Developer | Weltfern
 **Sep 2021 - May 2022**
 
 - Developed responsive React applications.
@@ -89,111 +113,73 @@ Full Stack Engineer | MERN Stack Developer | React.js • Next.js • Node.js �
 
 ---
 
-# 🌟 Featured Projects
+## Featured Projects
 
-## 💰 Asset Planet
+### LieDetection.io
 
-A complete financial management platform featuring:
+AI-powered lie detection platform with:
 
-- Budget Planning
-- Goal Management
-- Debt Payoff
-- Assets & Liabilities
-- Plaid Integration
-- Stripe Integration
-- Estate Planning
-
-**Stack:** React.js • Node.js • MySQL
-
----
-
-## 🤖 LieDetection.io
-
-AI-powered lie detection platform using:
-
-- Facial Expression Analysis
-- Voice Stress Detection
-- Behavioral Pattern Recognition
-- Real-Time Emotion Scoring
+- Facial expression analysis
+- Voice stress detection
+- Behavioral pattern recognition
+- Real-time emotion scoring
 
 **Stack:** Next.js • FastAPI • TensorFlow • OpenCV
 
----
+### Facto ERP
 
-## 🚀 Yesable AI
+Enterprise SaaS ERP solution with:
 
-Business automation platform featuring:
-
-- Customer Management
-- Asset Management
-- Reports
-- Google OAuth
-- Microsoft OAuth
-- Workflow Automation
-
-**Stack:** React.js • FastAPI
-
----
-
-## 📦 Facto ERP
-
-Enterprise SaaS ERP Solution
-
-- Warehouse Management
-- Production Management
-- Task Scheduling
-- Product Deliveries
-- Supplier Management
-- Customer Management
+- Warehouse management
+- Production management
+- Task scheduling
+- Product deliveries
+- Supplier management
+- Customer management
 
 **Stack:** React.js • Django • Tailwind CSS
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=zahid-hussain-dev&show_icons=true&theme=tokyonight" />
+  <img width="100%" src="https://streak-stats.demolab.com/?user=zahid-hussain-dev&hide_border=true&background=0A101F&stroke=22D3EE&ring=A78BFA&fire=10B981&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&titleColor=22D3EE&card_width=1180" alt="Zahid's streak stats" />
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=zahid-hussain-dev&theme=tokyonight" />
+  <img width="49%" src="https://YOUR-INSTANCE.vercel.app/api?username=zahid-hussain-dev&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&card_width=500" alt="Zahid's GitHub stats" />
+  <img width="49%" src="https://YOUR-INSTANCE.vercel.app/api/top-langs/?username=zahid-hussain-dev&layout=compact&langs_count=8&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F&card_width=500" alt="Top languages" />
 </p>
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zahid-hussain-dev&layout=compact&theme=tokyonight" />
-</p>
+> Replace `YOUR-INSTANCE.vercel.app` with your self-hosted `github-readme-stats` URL.
 
 ---
 
-## 🏆 Achievements
+## Contribution Snake
 
-🏅 4+ Years of Professional Experience
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zahid-hussain-dev/zahid-hussain-dev/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zahid-hussain-dev/zahid-hussain-dev/output/github-snake.svg" />
+    <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/zahid-hussain-dev/zahid-hussain-dev/output/github-snake.svg" />
+  </picture>
+</p>
 
-🏅 Built Production-Level FinTech Platforms
-
-🏅 Developed AI-Powered Web Applications
-
-🏅 Led Teams and Delivered Enterprise Solutions
-
-🏅 Built Multiple SaaS Products
+Only add this after the GitHub Action runs successfully and the `output` branch exists.
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
-<p align="left">
-<a href="mailto:zahidhussain0423@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
-</a>
-
-<a href="https://linkedin.com/in/zahid-hussain-a00bbb208">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-
-<a href="https://github.com/zahid-hussain-dev">
-<img src="https://skillicons.dev/icons?i=github" />
-</a>
+<p align="center">
+  <a href="https://linkedin.com/in/zahid-hussain-a00bbb208">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:zahidhussain0423@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0A101F?style=for-the-badge&logo=gmail&logoColor=10B981&labelColor=0A101F" alt="Email" />
+  </a>
 </p>
 
 ---
@@ -208,10 +194,12 @@ Enterprise SaaS ERP Solution
 
 ---
 
-<p align="center">
-  <b>“First, solve the problem. Then, write the code.”</b>
-</p>
+## Setup Checklist
+
+- Keep `dark-original.svg`, `light-original.svg`, and `.github/workflows/snake.yml` in the repo so the banner and snake blocks render correctly.
+- Enable GitHub Actions workflow permissions with read and write access so the snake workflow can publish to the `output` branch.
+- Deploy your own self-hosted `github-readme-stats` instance and replace `YOUR-INSTANCE.vercel.app`.
 
 <p align="center">
-⭐ If you like my work, feel free to follow me and check out my repositories.
+  <b>First, solve the problem. Then, write the code.</b>
 </p>
