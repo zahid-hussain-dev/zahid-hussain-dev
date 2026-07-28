@@ -137,7 +137,6 @@ Enterprise SaaS ERP solution with:
   <img width="49%" src="https://YOUR-INSTANCE.vercel.app/api/top-langs/?username=zahid-hussain-dev&layout=compact&langs_count=8&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F&card_width=500" alt="Top languages" />
 </p>
 
-> 
 <!-- Replace `YOUR-INSTANCE.vercel.app` with your self-hosted `github-readme-stats` URL. -->
 
 ---
@@ -152,7 +151,7 @@ Enterprise SaaS ERP solution with:
   </picture>
 </p>
 
-Only add this after the GitHub Action runs successfully and the `output` branch exists.
+This will appear after the first successful GitHub Action run creates the `output` branch.
 
 ---
 
