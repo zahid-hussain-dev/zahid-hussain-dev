@@ -151,7 +151,7 @@ Enterprise SaaS ERP solution with:
   </picture>
 </p>
 
-This will appear after the first successful GitHub Action run creates the `output` branch.
+<!-- This will appear after the first successful GitHub Action run creates the `output` branch. -->
 
 ---
 
