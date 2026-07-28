@@ -24,21 +24,6 @@
 
 ---
 
-## Quick Info
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">📍<br /><strong>Lahore, Pakistan</strong></td>
-      <td align="center">🎓<br /><strong>BS(CS) from PUCIT</strong></td>
-      <td align="center">💻<br /><strong>Full Stack Developer</strong></td>
-      <td align="center">📧<br /><strong>zahidhussain0423@gmail.com</strong></td>
-    </tr>
-  </table>
-</div>
-
----
-
 ## About Me
 
 - Full-Stack Engineer with hands-on experience building scalable web applications.
@@ -152,7 +137,8 @@ Enterprise SaaS ERP solution with:
   <img width="49%" src="https://YOUR-INSTANCE.vercel.app/api/top-langs/?username=zahid-hussain-dev&layout=compact&langs_count=8&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F&card_width=500" alt="Top languages" />
 </p>
 
-> Replace `YOUR-INSTANCE.vercel.app` with your self-hosted `github-readme-stats` URL.
+> 
+<!-- Replace `YOUR-INSTANCE.vercel.app` with your self-hosted `github-readme-stats` URL. -->
 
 ---
 
@@ -194,11 +180,11 @@ Only add this after the GitHub Action runs successfully and the `output` branch 
 
 ---
 
-## Setup Checklist
+<!-- ## Setup Checklist
 
 - Keep `dark-original.svg`, `light-original.svg`, and `.github/workflows/snake.yml` in the repo so the banner and snake blocks render correctly.
 - Enable GitHub Actions workflow permissions with read and write access so the snake workflow can publish to the `output` branch.
-- Deploy your own self-hosted `github-readme-stats` instance and replace `YOUR-INSTANCE.vercel.app`.
+- Deploy your own self-hosted `github-readme-stats` instance and replace `YOUR-INSTANCE.vercel.app`. -->
 
 <p align="center">
   <b>First, solve the problem. Then, write the code.</b>
