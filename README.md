@@ -67,7 +67,7 @@
 ### Tools & Cloud
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,aws,postman,vscode" alt="Tools and cloud" />
+  <img src="https://skillicons.dev/icons?i=git,github,aws,postman,vscode,figma" alt="Tools and cloud" />
 </p>
 
 ---
